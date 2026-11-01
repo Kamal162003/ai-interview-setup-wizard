@@ -110,3 +110,4 @@ The `<canvas>` internal bitmap buffer was locked to `600x80`, while CSS forced i
 
 - Inspected text contrast using browser accessibility tools: contrast ratio exceeded 14:1 (AAA compliance).
 - Resized viewport from 320px to 1920px: canvas dynamically recalculated its pixel grid, rendering razor-sharp sine waveforms at 60 FPS without distortion.
+

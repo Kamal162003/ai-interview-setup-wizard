@@ -106,3 +106,4 @@ const answerText = candidateAnswer || currentInterimText;
 - Tested spoken answers containing trailing technical terminology (e.g. *"using Redux Toolkit and WebSocket streams"*).
 - Clicked Stop immediately after speaking.
 - Verified that 100% of the spoken words were preserved in the candidate transcript with zero dropped syllables or duplicated phrases.
+

@@ -277,3 +277,4 @@ window.addEventListener('resize', resizeCanvas);
 
 ### 4. Verification
 - Verified responsive layout across mobile (375px), tablet (768px), and desktop (1440px). Status indicators and waveforms remain sharp, high-contrast, and fully legible.
+

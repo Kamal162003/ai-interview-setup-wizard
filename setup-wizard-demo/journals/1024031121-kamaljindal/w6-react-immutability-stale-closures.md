@@ -116,3 +116,4 @@ const handleTestMic = () => {
 - Verified zero console errors in React 18 StrictMode.
 - Audio test now reliably detects microphone activation and smoothly transitions to `'success'`.
 - Unmounting the setup wizard before the 4-second timeout no longer produces memory leak warnings.
+

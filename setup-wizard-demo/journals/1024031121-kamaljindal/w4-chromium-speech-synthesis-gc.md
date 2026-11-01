@@ -102,3 +102,4 @@ The `utterance` variable lived solely within the lexical execution frame of `spe
 
 - Tested long interview questions (>120 words) across Google Chrome and Microsoft Edge.
 - Verified that speech completed naturally without interruption and `onend` fired reliably, returning `audioState` to `'standby'`.
+

@@ -108,3 +108,4 @@ In `src/components/Analytics/FillerWordsAnalysis.jsx`, filler words were display
   - **Communication Clarity**: `0 / 100`
   - **Question Breakdown**: `Score: 0 / 100`
   - **Banner**: `⚠️ Incomplete Session — No Answers Recorded`
+
